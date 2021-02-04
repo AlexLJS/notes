@@ -1,5 +1,5 @@
 ---
-title: java基础 入门1
+title: java基础 入门1 基本语法
 date: 2021-02-03 22:33:23
 tags: Java基础
 categories: Java
